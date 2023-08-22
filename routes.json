@@ -1,0 +1,7 @@
+{
+    "/api/*": "/$1",
+    "/blog/users/:id/posts": "/posts?userId=:id",
+    "/blog/posts/:id/comments": "/comments?postId=:id",
+    "/basic_secondary_educations/:id/": "/basic_secondary_educations"
+  }
+  

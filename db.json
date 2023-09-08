@@ -407,28 +407,7 @@
       "id": "EKV1Vw9"
     }
   ],
-  "after_secondary_education": [
-    {
-      "id": "1692860033181-yUUPne",
-      "educationLevel": "Послесреднее образование",
-      "number": "ыаыаыва",
-      "yearOfGraduation": "2023",
-      "nameOfEducationalOrganization": "Высший колледж 56",
-      "country": "Казахстан",
-      "address": "проспект Кабанбай Батыра, 48/5, Астана",
-      "dateIssue": "2023-08-23T18:00:00.000Z",
-      "registrationNumber": "3432",
-      "typeEducation": null,
-      "formTraining": "Очное",
-      "qualification": "Прикладной бакалавр",
-      "protocolNumber": null,
-      "protocolDate": null,
-      "codeSpecialty": null,
-      "nameProfessionSpecialty": "Безопасность жизни деятельность",
-      "direction": null,
-      "parentId": "1691753214879-wlkcCM"
-    }
-  ],
+  "after_secondary_education": [],
   "history_after_secondary_education": [
     {
       "id": "1692860033181-yUUPne",
@@ -450,6 +429,12 @@
       "direction": null,
       "dateChanges": "2023-08-24T06:54:36.522Z",
       "parentId": "1691753214879-wlkcCM"
+    },
+    {
+      "deletionMessage": "Запись о послесреднем образование удалена",
+      "dateChanges": "2023-09-05T04:37:53.890Z",
+      "parentId": "1691753214879-wlkcCM",
+      "id": "x4xtw_W"
     }
   ],
   "basic_secondary_education": [
@@ -473,26 +458,6 @@
       "direction": null
     },
     {
-      "id": "1692847766411-EXw6p5",
-      "educationLevel": "Основное среднее образование",
-      "number": "1sdsa",
-      "yearOfGraduation": "2014",
-      "nameOfEducationalOrganization": "udhaih",
-      "country": "Казахстан",
-      "address": "улица Динмухамеда Кунаева, 19/1, Астана",
-      "dateIssue": "2023-08-09T18:00:00.000Z",
-      "registrationNumber": "fsbdfkbd",
-      "typeEducation": null,
-      "formTraining": null,
-      "qualification": null,
-      "protocolNumber": null,
-      "protocolDate": null,
-      "codeSpecialty": null,
-      "nameProfessionSpecialty": null,
-      "direction": null,
-      "parentId": "1691753214879-wlkcCM"
-    },
-    {
       "id": "1692855983740-CXqjx8",
       "educationLevel": "Основное среднее образование",
       "number": null,
@@ -511,6 +476,66 @@
       "nameProfessionSpecialty": null,
       "direction": null,
       "parentId": "1692848902791-6DZIYw"
+    },
+    {
+      "id": "1693894533438-m33qKM",
+      "educationLevel": "Основное среднее образование",
+      "number": "№5625",
+      "yearOfGraduation": "2135",
+      "nameOfEducationalOrganization": "Лицей 1",
+      "country": "Казахстан",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "dateIssue": "2015-09-04T18:00:00.000Z",
+      "registrationNumber": "№45983",
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "parentId": "1691753214879-wlkcCM"
+    },
+    {
+      "id": "1694056427961-GceWwI",
+      "educationLevel": "Основное среднее образование",
+      "number": "№4985934",
+      "yearOfGraduation": "2021",
+      "nameOfEducationalOrganization": "Лицей 1",
+      "country": "Казахстан",
+      "address": "улица Сарайшык, 7А, Астана",
+      "dateIssue": "2021-09-07T18:00:00.000Z",
+      "registrationNumber": "н3е4гн23н",
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "parentId": "1694056033604-cWkXXl"
+    },
+    {
+      "id": "1694063370913-b9xtB9",
+      "educationLevel": "Основное среднее образование",
+      "number": "",
+      "yearOfGraduation": null,
+      "nameOfEducationalOrganization": null,
+      "country": null,
+      "address": null,
+      "dateIssue": null,
+      "registrationNumber": null,
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "parentId": "1694062678367-x7UQ6n"
     }
   ],
   "history_basic_secondary_education": [
@@ -603,66 +628,281 @@
       "dateChanges": "2023-09-01T11:09:49.727Z",
       "parentId": "1693566004454-OyUycd",
       "id": "6ldvmLC"
+    },
+    {
+      "deletionMessage": "Запись о среднем образование удалена",
+      "dateChanges": "2023-09-05T04:37:55.269Z",
+      "parentId": "1691753214879-wlkcCM",
+      "id": "aWOa4-_"
+    },
+    {
+      "id": "1693894533438-m33qKM",
+      "educationLevel": "Основное среднее образование",
+      "number": "№5625",
+      "yearOfGraduation": "2135",
+      "nameOfEducationalOrganization": "Лицей 1",
+      "country": "Казахстан",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "dateIssue": "2015-09-04T18:00:00.000Z",
+      "registrationNumber": "№45983",
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "dateChanges": "2023-09-05T06:16:38.432Z",
+      "parentId": "1691753214879-wlkcCM"
+    },
+    {
+      "id": "1694056427961-GceWwI",
+      "educationLevel": "Основное среднее образование",
+      "number": "№4985934",
+      "yearOfGraduation": "2021",
+      "nameOfEducationalOrganization": "Лицей 1",
+      "country": "Казахстан",
+      "address": "улица Сарайшык, 7А, Астана",
+      "dateIssue": "2021-09-07T18:00:00.000Z",
+      "registrationNumber": "н3е4гн23н",
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "dateChanges": "2023-09-07T03:14:23.370Z",
+      "parentId": "1694056033604-cWkXXl"
+    },
+    {
+      "id": "1694063370913-b9xtB9",
+      "educationLevel": "Основное среднее образование",
+      "number": "",
+      "yearOfGraduation": null,
+      "nameOfEducationalOrganization": null,
+      "country": null,
+      "address": null,
+      "dateIssue": null,
+      "registrationNumber": null,
+      "typeEducation": null,
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "dateChanges": "2023-09-07T05:09:34.509Z",
+      "parentId": "1694062678367-x7UQ6n"
     }
   ],
   "database-individuals": [
     {
-      "id": "1691753214879-wlkcCM",
-      "surname": "Иванов П",
-      "name": "Иван",
-      "patronymic": "Иванович",
-      "surnameEng": "Ivanovich",
-      "nameEng": "Ivan",
-      "iin": "12216468",
+      "id": "1694060185037-rm6j0f",
+      "surname": "Тестов",
+      "name": "Тест",
+      "patronymic": "",
+      "surnameEng": "Testov",
+      "nameEng": "Test",
+      "iin": "944565212365",
       "gender": "Мужской",
+      "birthday": "1997-09-07T17:00:00.000Z",
+      "address": "проспект Кабанбай Батыра, 48/5, Астана",
+      "isResident": true,
+      "country": "Казахстан",
+      "currentPhoto": "303473_640313.jpg",
+      "status": "CANDIDATE",
+      "startDate": "2023-09-07T04:21:04.934Z",
+      "endDateOfWork": "2023-09-07T04:21:04.934Z",
+      "statusTD": "Принят"
+    },
+    {
+      "id": "1694062678367-x7UQ6n",
+      "surname": "aa",
+      "name": "aa",
+      "patronymic": "asa",
+      "surnameEng": "scxsa",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
       "isResident": null,
       "currentPhoto": "img_7295.jpg",
-      "citizenship": "Россия",
-      "startDate": "2023-08-17T08:52:36.721Z",
-      "endDateOfWork": "2023-08-17T08:52:36.721Z",
-      "birthday": "2023-08-17T08:52:36.721Z",
-      "statusTD": "На расмотрении",
-      "address": "улица Сарайшык, 7А, Астана",
-      "country": "Казахстан",
-      "nationalities": "Канадец"
+      "status": "CANDIDATE",
+      "startDate": "2023-09-07T05:08:05.221Z",
+      "endDateOfWork": "2023-09-07T05:08:05.221Z",
+      "birthday": "2023-09-07T05:08:05.221Z",
+      "statusTD": "Принят"
     },
     {
-      "id": "1692848902791-6DZIYw",
-      "surname": "Малов",
+      "id": "1694067723934-4P38i1",
+      "surname": "Иванов",
       "name": "Андрей",
-      "patronymic": "Игоревич",
-      "surnameEng": "лл",
-      "nameEng": "дл",
-      "iin": "3497234732684",
-      "gender": "Мужской",
-      "birthday": "2023-08-14T18:00:00.000Z",
-      "address": "улица Сарайшык, 7А, Астана",
-      "isResident": null,
-      "country": "Казахстан",
-      "currentPhoto": "logo192.png",
-      "nationalities": "Казах",
-      "citizenship": "Республика Казахстан",
-      "statusTD": "На расмотрении",
-      "startDate": "2023-08-29T04:10:13.487Z",
-      "endDateOfWork": "2023-08-29T04:10:13.487Z"
-    },
-    {
-      "id": "1693566004454-OyUycd",
-      "photo": null,
-      "surname": "Смирнов",
-      "name": "Геннадий",
       "patronymic": "",
-      "surnameEng": "Smirnov",
-      "nameEng": "Gennadiy",
-      "iin": "5223532532532",
+      "surnameEng": "Ivanov",
+      "nameEng": "Andrey",
+      "iin": "456513645",
       "gender": "Мужской",
-      "birthday": "2023-07-31T18:00:00.000Z",
-      "address": "проспект Кабанбай Батыра, 48/5, Астана",
+      "birthday": "1989-09-06T17:00:00.000Z",
+      "address": "улица Сарайшык, 18/1, Астана",
       "isResident": true,
       "country": "Казахстан",
       "currentPhoto": "img_7295.jpg",
       "nationalities": "Казах",
+      "citizenship": "Республика Казахстан",
+      "status": "CANDIDATE",
+      "startDate": "2023-09-07T06:27:24.989Z",
+      "endDateOfWork": "2023-09-07T06:27:24.989Z",
+      "statusTD": "Принят"
+    },
+    {
+      "id": "1694144892762-m5ldaX",
+      "surname": "Абрамов",
+      "name": "Максим",
+      "patronymic": "",
+      "surnameEng": "Abramov",
+      "nameEng": "Maksim",
+      "iin": "3527356732",
+      "gender": "Мужской",
+      "birthday": "2023-09-03T18:00:00.000Z",
+      "address": "улица Сейиткали Мендешева, 59, микрорайон Шубар, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg",
+      "nationalities": "Британец",
+      "citizenship": "Великобритания",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694145277377-iPbDBj",
+      "surname": "2",
+      "name": "Шаблон",
+      "patronymic": "",
+      "surnameEng": "MOROZOV",
+      "nameEng": "EVGENII",
+      "iin": "23123",
+      "gender": "",
+      "address": "sadasd",
+      "isResident": null,
+      "country": "Индия",
+      "currentPhoto": "img_7295.jpg",
+      "nationalities": "Француз",
+      "citizenship": "Канада",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694147081929-1dlGOa",
+      "surname": "Мукушов",
+      "name": "Арман",
+      "patronymic": "",
+      "surnameEng": "Mukushov",
+      "nameEng": "Arman",
+      "iin": "8506020302312",
+      "gender": "Мужской",
+      "birthday": "1985-06-01T17:00:00.000Z",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "nationalities": "Казах",
       "citizenship": "Республика Казахстан"
+    },
+    {
+      "id": "1694147253101-vzWruK",
+      "surname": "Mussin",
+      "name": "Alibek",
+      "patronymic": "",
+      "surnameEng": "Mussin",
+      "nameEng": "Alibek",
+      "iin": "880822321456",
+      "gender": "Мужской",
+      "birthday": "2023-09-03T18:00:00.000Z",
+      "address": "проспект Кабанбай Батыра, 48/5, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "nationalities": "Казах",
+      "citizenship": "Республика Казахстан",
+      "status": "CANDIDATE",
+      "startDate": "2023-09-08T04:31:17.850Z",
+      "endDateOfWork": "2023-09-08T04:31:17.850Z",
+      "statusTD": "Принят"
+    },
+    {
+      "id": "1694148011950-cgBEIj",
+      "surname": "",
+      "name": "",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg"
+    },
+    {
+      "id": "1694148088161-XHOgKj",
+      "surname": "MOROZOV",
+      "name": "EVGENII",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg"
+    },
+    {
+      "id": "1694148160373-FMiI6N",
+      "surname": "saas",
+      "name": "sasa",
+      "patronymic": "",
+      "surnameEng": "sasas",
+      "nameEng": "saasas",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg"
+    },
+    {
+      "id": "1694148279753-iSiSQA",
+      "surname": "sad",
+      "name": "sadas",
+      "patronymic": "",
+      "surnameEng": "sad",
+      "nameEng": "das",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "favicon.ico",
+      "statusTD": "Принят"
+    },
+    {
+      "id": "1694149454500-qdReXO",
+      "surname": "ывфы",
+      "name": "ыфв",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "citizenship": "Соединенные Штаты Америки",
+      "statusTD": "Принят"
+    },
+    {
+      "id": "1694150494917-C4sdqw",
+      "surname": "мисмссссссссссссссссссс",
+      "name": "смсмсмсмссссссссс",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "statusTD": "Принят"
     }
   ],
   "history_database_individuals": [
@@ -804,6 +1044,301 @@
       "citizenship": "Республика Казахстан",
       "dateChanges": "2023-09-01T11:03:49.721Z",
       "parentId": "1693566004454-OyUycd"
+    },
+    {
+      "oldSurname": "Иванов П",
+      "surname": "Иванов",
+      "dateChanges": "2023-09-05T04:38:17.454Z",
+      "message": "",
+      "parentId": "1691753214879-wlkcCM",
+      "id": "2SMXI4c"
+    },
+    {
+      "oldIin": "12216468",
+      "iin": "12216",
+      "dateChanges": "2023-09-05T04:54:35.885Z",
+      "message": "",
+      "parentId": "1691753214879-wlkcCM",
+      "id": "B0pUYEV"
+    },
+    {
+      "id": "1693889327101-X2c38Y",
+      "surname": "Алексеев",
+      "name": "Максим",
+      "patronymic": "Максимович",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "3534534",
+      "gender": "Мужской",
+      "birthday": "1997-09-16T17:00:00.000Z",
+      "isResident": null,
+      "currentPhoto": "favicon.ico",
+      "dateChanges": "2023-09-05T05:08:38.564Z",
+      "parentId": "1693889327101-X2c38Y",
+      "status": "CANDIDATE"
+    },
+    {
+      "oldName": "Иван",
+      "name": "Василий",
+      "oldNameEng": "Ivan",
+      "nameEng": "Vasiliy",
+      "dateChanges": "2023-09-05T06:25:07.719Z",
+      "message": "Замена паспорта",
+      "parentId": "1691753214879-wlkcCM",
+      "id": "ZV_04Pi"
+    },
+    {
+      "id": "1693895263416-50X6sW",
+      "surname": "Морозов",
+      "name": "Евгений",
+      "patronymic": "Игоревич",
+      "surnameEng": "MOROZOV",
+      "nameEng": "EVGENII",
+      "iin": "1546452168\\",
+      "gender": "",
+      "address": null,
+      "isResident": null,
+      "country": "Россия",
+      "currentPhoto": "img_7295.jpg",
+      "citizenship": "Соединенные Штаты Америки",
+      "nationalities": "Француз",
+      "dateChanges": "2023-09-05T06:29:32.431Z",
+      "parentId": "1693895263416-50X6sW",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694056033604-cWkXXl",
+      "surname": "Васламов",
+      "name": "Игорь",
+      "patronymic": "Игоревич",
+      "surnameEng": "VAslamov",
+      "nameEng": "Igor",
+      "iin": "3412362132",
+      "gender": "Мужской",
+      "birthday": "1993-09-06T17:00:00.000Z",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "currentPhoto": "303473_640313.jpg",
+      "nationalities": "Канадец",
+      "citizenship": "Франция",
+      "dateChanges": "2023-09-07T03:08:48.470Z",
+      "parentId": "1694056033604-cWkXXl",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694060185037-rm6j0f",
+      "surname": "Тестов",
+      "name": "Тест",
+      "patronymic": "",
+      "surnameEng": "Testov",
+      "nameEng": "Test",
+      "iin": "944565212365",
+      "gender": "Мужской",
+      "birthday": "1997-09-07T17:00:00.000Z",
+      "address": "проспект Кабанбай Батыра, 48/5, Астана",
+      "isResident": true,
+      "country": "Казахстан",
+      "currentPhoto": "303473_640313.jpg",
+      "dateChanges": "2023-09-07T04:17:24.387Z",
+      "parentId": "1694060185037-rm6j0f",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694062678367-x7UQ6n",
+      "surname": "aa",
+      "name": "aa",
+      "patronymic": "asa",
+      "surnameEng": "scxsa",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "dateChanges": "2023-09-07T04:58:26.904Z",
+      "parentId": "1694062678367-x7UQ6n",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694067723934-4P38i1",
+      "surname": "Иванов",
+      "name": "Андрей",
+      "patronymic": "",
+      "surnameEng": "Ivanov",
+      "nameEng": "Andrey",
+      "iin": "456513645",
+      "gender": "Мужской",
+      "birthday": "1989-09-06T17:00:00.000Z",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "isResident": true,
+      "country": "Казахстан",
+      "currentPhoto": "img_7295.jpg",
+      "nationalities": "Казах",
+      "citizenship": "Республика Казахстан",
+      "dateChanges": "2023-09-07T06:24:16.598Z",
+      "parentId": "1694067723934-4P38i1",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694144892762-m5ldaX",
+      "surname": "Абрамов",
+      "name": "Максим",
+      "patronymic": "",
+      "surnameEng": "Abramov",
+      "nameEng": "Maksim",
+      "iin": "3527356732",
+      "gender": "Мужской",
+      "birthday": "2023-09-03T18:00:00.000Z",
+      "address": "улица Сейиткали Мендешева, 59, микрорайон Шубар, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg",
+      "nationalities": "Британец",
+      "citizenship": "Великобритания",
+      "dateChanges": "2023-09-08T03:49:37.943Z",
+      "parentId": "1694144892762-m5ldaX",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694145277377-iPbDBj",
+      "surname": "2",
+      "name": "Шаблон",
+      "patronymic": "",
+      "surnameEng": "MOROZOV",
+      "nameEng": "EVGENII",
+      "iin": "23123",
+      "gender": "",
+      "address": "sadasd",
+      "isResident": null,
+      "country": "Индия",
+      "currentPhoto": "img_7295.jpg",
+      "nationalities": "Француз",
+      "citizenship": "Канада",
+      "dateChanges": "2023-09-08T03:55:19.042Z",
+      "parentId": "1694145277377-iPbDBj",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694147081929-1dlGOa",
+      "surname": "Мукушов",
+      "name": "Арман",
+      "patronymic": "",
+      "surnameEng": "Mukushov",
+      "nameEng": "Arman",
+      "iin": "8506020302312",
+      "gender": "Мужской",
+      "birthday": "1985-06-01T17:00:00.000Z",
+      "address": "улица Сарайшык, 18/1, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "nationalities": "Казах",
+      "citizenship": "Республика Казахстан",
+      "dateChanges": "2023-09-08T04:25:33.406Z",
+      "parentId": "1694147081929-1dlGOa"
+    },
+    {
+      "id": "1694147253101-vzWruK",
+      "surname": "Mussin",
+      "name": "Alibek",
+      "patronymic": "",
+      "surnameEng": "Mussin",
+      "nameEng": "Alibek",
+      "iin": "880822321456",
+      "gender": "Мужской",
+      "birthday": "2023-09-03T18:00:00.000Z",
+      "address": "проспект Кабанбай Батыра, 48/5, Астана",
+      "isResident": null,
+      "country": "Казахстан",
+      "nationalities": "Казах",
+      "citizenship": "Республика Казахстан",
+      "dateChanges": "2023-09-08T04:28:36.566Z",
+      "parentId": "1694147253101-vzWruK",
+      "status": "CANDIDATE"
+    },
+    {
+      "id": "1694148011950-cgBEIj",
+      "surname": "",
+      "name": "",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg",
+      "dateChanges": "2023-09-08T04:40:44.807Z",
+      "parentId": "1694148011950-cgBEIj"
+    },
+    {
+      "id": "1694148088161-XHOgKj",
+      "surname": "MOROZOV",
+      "name": "EVGENII",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "Mum2l7LDm6cE9orWCkwUu6asJA8e5aXbmi1xfURZTCSpZXKJX_cDDC8HmKlTlSoV1nCuVO85.jpg",
+      "dateChanges": "2023-09-08T04:41:34.614Z",
+      "parentId": "1694148088161-XHOgKj"
+    },
+    {
+      "id": "1694148160373-FMiI6N",
+      "surname": "saas",
+      "name": "sasa",
+      "patronymic": "",
+      "surnameEng": "sasas",
+      "nameEng": "saasas",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "dateChanges": "2023-09-08T04:42:49.550Z",
+      "parentId": "1694148160373-FMiI6N"
+    },
+    {
+      "id": "1694148279753-iSiSQA",
+      "surname": "sad",
+      "name": "sadas",
+      "patronymic": "",
+      "surnameEng": "sad",
+      "nameEng": "das",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "favicon.ico",
+      "dateChanges": "2023-09-08T04:44:49.830Z",
+      "parentId": "1694148279753-iSiSQA"
+    },
+    {
+      "id": "1694149454500-qdReXO",
+      "surname": "ывфы",
+      "name": "ыфв",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "citizenship": "Соединенные Штаты Америки",
+      "dateChanges": "2023-09-08T05:04:21.784Z",
+      "parentId": "1694149454500-qdReXO"
+    },
+    {
+      "id": "1694150494917-C4sdqw",
+      "surname": "мисмссссссссссссссссссс",
+      "name": "смсмсмсмссссссссс",
+      "patronymic": "",
+      "surnameEng": "",
+      "nameEng": "",
+      "iin": "",
+      "gender": "",
+      "isResident": null,
+      "currentPhoto": "img_7295.jpg",
+      "dateChanges": "2023-09-08T05:21:45.456Z",
+      "parentId": "1694150494917-C4sdqw"
     }
   ],
   "higher_education": [],
@@ -913,16 +1448,16 @@
       "militaryRegistrationDates": [
         {}
       ],
-      "attitudeMilitaryRegistration": "Допризывник",
+      "attitudeMilitaryRegistration": "Военнослужащий",
       "dateIssue": null,
       "documentNumber": "",
-      "nameUODO": "",
+      "nameUODO": "Алматы",
       "specialMilitaryAccounting": "",
       "deferralStartDate": null,
       "endDateDeferralFromConscription": null,
-      "agendaNumber": "",
-      "dateAgenda": null,
-      "endDateOfServiceInArmy": null,
+      "agendaNumber": "5465465",
+      "dateAgenda": "2023-09-06T18:00:00.000Z",
+      "endDateOfServiceInArmy": "2025-09-14T18:00:00.000Z",
       "isDocumentWithdrawn": false,
       "militaryRegistrationDocument": null,
       "accountingGroup": null,
@@ -1262,9 +1797,92 @@
       "oldMilitaryRegistrationDates": [],
       "postId": "1693566004454-OyUycd",
       "id": 13
+    },
+    {
+      "oldMilitaryRegistrationDates": [],
+      "militaryRegistrationDates": [
+        {
+          "arrivedFrom": "Алматы",
+          "whereDidHeGo": "Переезд",
+          "dateDeRegistration": "2023-09-05T06:15:20.964Z",
+          "dateRegistration": "2023-09-03T06:15:20.000Z",
+          "whenReportedDeRegistration": "2023-09-05T06:15:20.964Z",
+          "whenReportedRegistration": "2023-09-12T06:15:20.000Z"
+        }
+      ],
+      "oldAttitudeMilitaryRegistration": "Допризывник",
+      "attitudeMilitaryRegistration": "Призывник",
+      "oldDateIssue": null,
+      "dateIssue": "2023-08-08T18:00:00.000Z",
+      "oldDocumentNumber": "",
+      "documentNumber": "4686132",
+      "oldNameUODO": "",
+      "nameUODO": "Астана ",
+      "oldSpecialMilitaryAccounting": "",
+      "specialMilitaryAccounting": "61116841",
+      "oldDeferralStartDate": null,
+      "deferralStartDate": "2023-08-25T18:00:00.000Z",
+      "oldEndDateDeferralFromConscription": null,
+      "endDateDeferralFromConscription": "2024-08-25T18:00:00.000Z",
+      "dateChanges": "2023-09-05T06:18:18.313Z",
+      "statusHistoryItem": "Призывник",
+      "postId": "1691753214879-wlkcCM",
+      "id": 14
+    },
+    {
+      "oldMilitaryRegistrationDates": [],
+      "militaryRegistrationDates": [
+        {}
+      ],
+      "oldAttitudeMilitaryRegistration": "Призывник",
+      "attitudeMilitaryRegistration": "Военнослужащий",
+      "oldDateIssue": "2023-08-08T18:00:00.000Z",
+      "dateIssue": null,
+      "oldDocumentNumber": "4686132",
+      "documentNumber": "",
+      "oldNameUODO": "Астана ",
+      "nameUODO": "Алматы",
+      "oldSpecialMilitaryAccounting": "61116841",
+      "specialMilitaryAccounting": "",
+      "oldDeferralStartDate": "2023-08-25T18:00:00.000Z",
+      "deferralStartDate": null,
+      "oldEndDateDeferralFromConscription": "2023-08-25T18:00:00.000Z",
+      "endDateDeferralFromConscription": null,
+      "oldAgendaNumber": "",
+      "agendaNumber": "5465465",
+      "oldDateAgenda": null,
+      "dateAgenda": "2023-09-06T18:00:00.000Z",
+      "oldEndDateOfServiceInArmy": null,
+      "endDateOfServiceInArmy": "2025-09-14T18:00:00.000Z",
+      "dateChanges": "2023-09-05T06:24:12.656Z",
+      "statusHistoryItem": "Военнослужащий",
+      "postId": "1691753214879-wlkcCM",
+      "id": 15
     }
   ],
-  "secondary_education": [],
+  "secondary_education": [
+    {
+      "id": "1694145027905-I1NllS",
+      "educationLevel": "Среднее образование (общее среднее образование, техническое и профессиональное образование)",
+      "number": "56",
+      "yearOfGraduation": "2021",
+      "nameOfEducationalOrganization": "Школа 56",
+      "country": "Казахстан",
+      "address": "проспект Кабанбай Батыра, 13, Астана",
+      "dateIssue": "2023-09-12T18:00:00.000Z",
+      "registrationNumber": "2432",
+      "typeEducation": "Общее среднее образование",
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "parentId": "1694144892762-m5ldaX",
+      "status": "CANDIDATE"
+    }
+  ],
   "history_secondary_education": [
     {
       "id": "1692682882131-pbu8QJ",
@@ -1346,6 +1964,28 @@
       "dateChanges": "2023-08-24T03:14:16.252Z",
       "parentId": "1691753214879-wlkcCM",
       "id": "dnblD7Y"
+    },
+    {
+      "id": "1694145027905-I1NllS",
+      "educationLevel": "Среднее образование (общее среднее образование, техническое и профессиональное образование)",
+      "number": "56",
+      "yearOfGraduation": "2021",
+      "nameOfEducationalOrganization": "Школа 56",
+      "country": "Казахстан",
+      "address": "проспект Кабанбай Батыра, 13, Астана",
+      "dateIssue": "2023-09-12T18:00:00.000Z",
+      "registrationNumber": "2432",
+      "typeEducation": "Общее среднее образование",
+      "formTraining": null,
+      "qualification": null,
+      "protocolNumber": null,
+      "protocolDate": null,
+      "codeSpecialty": null,
+      "nameProfessionSpecialty": null,
+      "direction": null,
+      "dateChanges": "2023-09-08T03:51:09.958Z",
+      "parentId": "1694144892762-m5ldaX",
+      "status": "CANDIDATE"
     }
   ],
   "data_template_contract": [
@@ -1750,6 +2390,183 @@
       "dataChange": "2023-09-01T10:55:13.730Z",
       "id": "1693565697419-ERYYRy",
       "nameRegistration": ""
+    },
+    {
+      "positionsStructuralDivisions": [
+        "Директор ДИТ"
+      ],
+      "nameKz": "",
+      "nameRu": "Шаблон 56",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Шаблон 56Шаблон 56Шаблон 56",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Назначение на должность или утверждение в должности",
+      "durationEmployment": "На неопределенный срок",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "3 месяца",
+      "addressOrganization": "Туран 50",
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "",
+      "nameRegistration": "",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1693894188584-LINTdS",
+          "approvals": [
+            {
+              "id": "1693894190691-lDEB1x",
+              "typeAction": "Подписать",
+              "date": "2023-09-27T18:00:00.000Z",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "Кызылординская область",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Зона чрезвычайного радиационного риска – 14 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "addTerritoryVacationDays": 14,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-05T06:11:09.588Z",
+      "id": "1693894233637-mimhPa",
+      "isHarmful": true,
+      "numberOfDaysForHarmfulness": "6",
+      "addForHarmfulnessVacationDays": "6"
+    },
+    {
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Заместитель директора"
+      ],
+      "nameKz": "",
+      "nameRu": "Тредовой договор 21",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Избрание по конкурсу на замещение соответствующей должности",
+      "durationEmployment": "На определенный срок не менее одного года",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "3 месяца",
+      "addressOrganization": null,
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1694059983962-rsj1ro",
+          "approvals": [
+            {
+              "id": "1694059985648-DOtkSq",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "г.Астана",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": 6,
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 7,
+      "addTerritoryVacationDays": 5,
+      "addForHarmfulnessVacationDays": 6,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-07T04:13:30.014Z",
+      "id": "1694060003156-Ix2Pyy",
+      "nameRegistration": ""
+    },
+    {
+      "trialPeriod": "3 месяца",
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Директор ДИТ",
+        "Директор ДУЧР"
+      ],
+      "nameKz": "",
+      "nameRu": "Шаблон ТД по основной работе для вахтовиков ",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вах",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Назначение на должность или утверждение в должности",
+      "durationEmployment": "На определенный срок не менее одного года",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "addressOrganization": "12 Кабанбай батыра",
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1694146894832-kQ75l9",
+          "approvals": [
+            {
+              "id": "1694146896939-X4JqAs",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "Западно-Казахстанская область",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Зона чрезвычайного радиационного риска – 14 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": 6,
+      "environmentalDisasterZoneVacationDays": "Зона экологической катастрофы – 12 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 12,
+      "addTerritoryVacationDays": 14,
+      "addForHarmfulnessVacationDays": 6,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-08T04:22:00.586Z",
+      "id": "1694146912730-jgAfYw"
     }
   ],
   "data_template_order": [
@@ -1926,8 +2743,8 @@
       "descriptionRu": "Приказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ Данияр",
       "descriptionEng": "",
       "baseOrder": "ТД №123 от 21.02.2023 Мукушов Арман",
-      "inAccordanceWithAct": "ст. 34 ТК РК",
-      "dateOfStart": "2023-09-07T18:00:00.000Z",
+      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
+      "dateOfStart": "2023-10-15T18:00:00.000Z",
       "salaryAmount": "100000",
       "trialPeriod": "3 месяца",
       "workingConditionsEmployee": "Нормальные",
@@ -1950,169 +2767,81 @@
           "isParallel": "0"
         }
       ],
-      "endTrialPeriod": "2023-12-07T18:00:00.000Z",
-      "startTrialPeriod": "2023-09-07T18:00:00.000Z",
-      "dataChange": "2023-09-01T10:59:41.442Z",
+      "endTrialPeriod": "2024-01-15T18:00:00.000Z",
+      "startTrialPeriod": "2023-10-15T18:00:00.000Z",
+      "dataChange": "2023-09-05T06:12:15.176Z",
       "id": "1693565868962-8Myrmq",
       "typeOrder": "О приеме на работу",
       "orderStatus": "Создан"
-    }
-  ],
-  "data_employment_contract": [
-    {
-      "nameKz": "Шаблон 1",
-      "nameRu": "ТД Иванов",
-      "nameEng": "Шаблон 1",
-      "descriptionKz": "",
-      "descriptionRu": "Шаблон 1 описание",
-      "descriptionEng": "",
-      "positionsStructuralDivisions": [
-        "Директор ДУЧР",
-        "Директор"
-      ],
-      "formConclusionOfContract": "Типовая форма",
-      "typeContract": "Основной договор",
-      "contractConclusionProcedure": "Вынесение судебного решения о заключении трудового договора",
-      "region": "г. Нур-Султан (Астана)",
-      "addressOrganization": "",
-      "typesWorkingWeek": "Шестидневная рабочая неделя с одним выходным днем",
-      "workingTimeMode": "Сокращенная",
-      "employeeCategory": "Кандидат наук, доктор философии (PhD) (42 кал дней)",
-      "country": "Казахстан",
-      "addScientificWorkersVacationDays": 42,
-      "isEmployeeDisabled": true,
-      "isTerritoryVacationDays": true,
-      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
-      "numberOfDaysForEmployeeDisabled": 6,
-      "addTerritoryVacationDays": 5,
-      "addEmployeeDisabledVacationDays": 6,
-      "dataChange": "2023-09-01T10:26:06.370Z",
-      "id": "1693563248098-BYMhTu",
-      "typeContractConcluded": "Работа по совместительству",
-      "durationEmployment": "Направление на работу уполномоченными законом органами в счет установленной квоты",
-      "workingConditionsEmployee": "Особо вредные",
-      "employmentForm": "Дистанционная работа",
-      "trialPeriod": "2 месяца",
-      "approvalBlocks": [
-        {
-          "id": "1692070218506-Kcurxu",
-          "approvals": [
-            {
-              "id": "1692073488594-76Lymw",
-              "typeAction": "Подписать",
-              "date": "2023-08-16T18:00:00.000Z",
-              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
-              "position": "Менеджер",
-              "note": "xzc",
-              "access": "Редактор данных"
-            }
-          ],
-          "isParallel": "0"
-        }
-      ],
-      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
-      "nameRegistration": "Журнал регистрации трудовых договоров",
-      "registration": "",
-      "nameStructural": "Департамент управления человеческими ресурсами",
-      "status": "Действующий",
-      "postId": "1691753214879-wlkcCM"
     },
     {
-      "nameKz": "Шаблон 1",
-      "nameRu": "Шаблон 1",
-      "nameEng": "Шаблон 1",
+      "nameKz": "",
+      "nameRu": "Приказ 21",
+      "nameEng": "",
       "descriptionKz": "",
-      "descriptionRu": "Шаблон 1 описание",
+      "descriptionRu": "",
       "descriptionEng": "",
-      "positionsStructuralDivisions": [
-        "Директор ДУЧР",
-        "Директор"
-      ],
-      "formConclusionOfContract": "Не типовая форма",
-      "typeContract": "Основной договор",
-      "contractConclusionProcedure": "Вынесение судебного решения о заключении трудового договора",
-      "region": "г. Алматы",
-      "addressOrganization": "",
-      "typesWorkingWeek": "Шестидневная рабочая неделя с одним выходным днем",
-      "workingTimeMode": "Сокращенная",
-      "employeeCategory": "Кандидат наук, доктор философии (PhD) (42 кал дней)",
-      "country": "Казахстан",
-      "addScientificWorkersVacationDays": 42,
-      "isEmployeeDisabled": true,
-      "isTerritoryVacationDays": true,
-      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
-      "numberOfDaysForEmployeeDisabled": 6,
-      "addTerritoryVacationDays": 5,
-      "addEmployeeDisabledVacationDays": 6,
-      "dataChange": "2023-09-01T10:30:35.825Z",
-      "id": "1693563380378-A8EdJX",
-      "typeContractConcluded": "Работа по совместительству",
-      "durationEmployment": "Направление на работу уполномоченными законом органами в счет установленной квоты",
-      "workingConditionsEmployee": "Особо вредные",
-      "employmentForm": "Дистанционная работа",
-      "trialPeriod": "2 месяца",
+      "baseOrder": "",
+      "inAccordanceWithAct": "",
+      "salaryAmount": "",
+      "trialPeriod": "3 месяца",
+      "workingConditionsEmployee": "Нормальные",
       "approvalBlocks": [
         {
-          "id": "1692070218506-Kcurxu",
+          "id": "1694060062809-rg3RnC",
           "approvals": [
             {
-              "id": "1692073435617-AFIhOZ",
-              "typeAction": "",
-              "organization": "",
-              "position": "",
-              "note": "sdasd",
-              "access": ""
+              "id": "1694060064430-ijAhzt",
+              "typeAction": "Согласовать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор данных и текста"
             },
             {
-              "id": "1692073488594-76Lymw",
+              "id": "1694060078405-e6egaD",
               "typeAction": "Подписать",
-              "date": "2023-08-16T18:00:00.000Z",
               "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
               "position": "Директор",
-              "note": "xzc",
-              "access": "Редактор данных"
+              "note": "",
+              "access": "Редактор данных и текста"
             }
           ],
           "isParallel": "0"
         }
       ],
-      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
-      "nameRegistration": "Журнал регистрации трудовых договоров",
-      "registration": "",
-      "nameStructural": "Департамент управления человеческими ресурсами",
-      "status": "Действующий",
-      "postId": "1692848902791-6DZIYw"
-    }
-  ],
-  "data_employment_order": [
+      "dataChange": "2023-09-07T04:14:52.863Z",
+      "id": "1694060089288-94iNyb",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Создан",
+      "dateOfStart": "2023-09-07T04:14:49.563Z",
+      "startTrialPeriod": "2023-09-07T04:14:49.563Z",
+      "endTrialPeriod": "2023-12-07T04:14:49.563Z"
+    },
     {
+      "trialPeriod": "3 месяца",
       "nameKz": "",
-      "nameRu": "Шаблон 3",
+      "nameRu": "Шаблон приказа о приеме на работу по основному месту",
       "nameEng": "",
       "descriptionKz": "",
-      "descriptionRu": "Шаблон 3 описание",
+      "descriptionRu": "Шаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному месту",
       "descriptionEng": "",
-      "baseOrder": "Проект ТД №29348 от 23.02.2023 Иванов Алмас",
-      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
-      "dateOfStart": "2023-08-30T18:00:00.000Z",
-      "salaryAmount": "500 000",
-      "trialPeriod": "4 месяца",
-      "workingConditionsEmployee": "Вредные",
+      "inAccordanceWithAct": "ст. 34 ТК РК",
+      "salaryAmount": "",
+      "workingConditionsEmployee": "Нормальные",
       "nomenclature": [
-        "04-02-12 Приказы ректора - Председатель правления",
         "04-01-12 Приказы ректора - Председатель правления"
       ],
       "approvalBlocks": [
         {
-          "id": "1692269142236-W3ito9",
+          "id": "1694146982564-DZYatk",
           "approvals": [
             {
-              "id": "1692269144313-ZyAZLw",
-              "typeAction": "Согласовать",
-              "date": "2023-08-20T18:00:00.000Z",
-              "organization": "ТОО \"ARMAN SW\"",
-              "position": "Начальник отдела",
-              "note": "dssd",
+              "id": "1694146984672-281KVF",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
               "access": "Редактор данных и текста",
               "eds": true
             }
@@ -2120,46 +2849,436 @@
           "isParallel": "0"
         }
       ],
-      "endTrialPeriod": "2023-12-08T18:00:00.000Z",
-      "startTrialPeriod": "2023-08-08T18:00:00.000Z",
-      "dataChange": "2023-09-01T10:30:37.777Z",
-      "id": "1693562737950-uErIe5",
+      "dataChange": "2023-09-08T04:23:31.494Z",
+      "id": "1694146995646-LlcQbo",
       "typeOrder": "О приеме на работу",
-      "orderStatus": "Действующий",
-      "status": "На согласовании",
+      "orderStatus": "Создан",
+      "dateOfStart": "2023-09-08T04:23:16.019Z",
+      "startTrialPeriod": "2023-09-08T04:23:16.019Z",
+      "endTrialPeriod": "2023-12-08T04:23:16.019Z",
+      "baseOrder": ""
+    }
+  ],
+  "data_employment_contract": [
+    {
+      "positionsStructuralDivisions": [
+        "Директор ДИТ",
+        "Директор ДУЧР",
+        "ДЭиф"
+      ],
+      "nameKz": "Трудовой договор Данияр",
+      "nameRu": "Трудовой договор Данияр",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Трудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор Данияр",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Назначение на должность или утверждение в должности",
+      "durationEmployment": "На неопределенный срок",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "2 месяца",
+      "addressOrganization": "аыфаыфаыфаыфа",
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1693565644112-MNuUgW",
+          "approvals": [
+            {
+              "id": "1693565668439-dHGILk",
+              "typeAction": "Согласовать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор текста"
+            },
+            {
+              "id": "1693565681594-deZ3Lg",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "Акмолинская область",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Зона максимального радиационного риска – 12 календарных дней",
+      "numberOfDaysForEmployeeDisabled": "9",
+      "numberOfDaysForHarmfulness": "9",
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 7,
+      "addTerritoryVacationDays": 12,
+      "addForHarmfulnessVacationDays": "9",
+      "addEmployeeDisabledVacationDays": "9",
+      "dataChange": "2023-09-07T05:10:25.460Z",
+      "id": "1694002509276-nYSuu5",
+      "nameRegistration": "",
+      "status": "На подписи у кандидат",
       "postId": "1691753214879-wlkcCM"
     },
     {
-      "nameKz": "Шаблон 2",
-      "nameRu": "Шаблон 2",
-      "nameEng": "Шаблон 2",
+      "positionsStructuralDivisions": [
+        "Директор ДИТ",
+        "Директор ДУЧР",
+        "ДЭиф"
+      ],
+      "nameKz": "Трудовой договор Данияр",
+      "nameRu": "Трудовой договор Данияр",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Трудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор ДаниярТрудовой договор Данияр",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Назначение на должность или утверждение в должности",
+      "durationEmployment": "На неопределенный срок",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "2 месяца",
+      "addressOrganization": "аыфаыфаыфаыфа",
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1693565644112-MNuUgW",
+          "approvals": [
+            {
+              "id": "1693565668439-dHGILk",
+              "typeAction": "Согласовать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор текста"
+            },
+            {
+              "id": "1693565681594-deZ3Lg",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "Акмолинская область",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Зона максимального радиационного риска – 12 календарных дней",
+      "numberOfDaysForEmployeeDisabled": "9",
+      "numberOfDaysForHarmfulness": "9",
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 7,
+      "addTerritoryVacationDays": 12,
+      "addForHarmfulnessVacationDays": "9",
+      "addEmployeeDisabledVacationDays": "9",
+      "dataChange": "2023-09-07T03:22:31.726Z",
+      "id": "1694056484339-zpbzvS",
+      "nameRegistration": "",
+      "status": "Действующий",
+      "postId": "1694056033604-cWkXXl"
+    },
+    {
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Заместитель директора"
+      ],
+      "nameKz": "",
+      "nameRu": "Тредовой договор 21",
+      "nameEng": "",
       "descriptionKz": "",
       "descriptionRu": "",
       "descriptionEng": "",
-      "baseOrder": "ТД №123 от 21.02.2023 Мукушов Арман",
-      "salaryAmount": "50000",
-      "trialPeriod": "2 месяца",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Избрание по конкурсу на замещение соответствующей должности",
+      "durationEmployment": "На определенный срок не менее одного года",
       "workingConditionsEmployee": "Нормальные",
-      "dataChange": "2023-09-01T10:30:39.537Z",
-      "id": "1693563398243-jorI2G",
-      "typeOrder": "О приеме на работу",
-      "dateOfStart": "2023-08-16T10:58:08.663Z",
-      "startTrialPeriod": "2023-08-16T10:58:08.663Z",
-      "endTrialPeriod": "2023-10-16T10:58:08.663Z",
-      "nomenclature": [
-        "04-02-12 Приказы ректора - Председатель правления"
-      ],
-      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
-      "orderStatus": "Действующий",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "3 месяца",
+      "addressOrganization": null,
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
       "approvalBlocks": [
         {
-          "id": "1693563386274-orOQPt",
+          "id": "1694059983962-rsj1ro",
           "approvals": [
             {
-              "id": "1693563388447-JdcZ3N",
+              "id": "1694059985648-DOtkSq",
               "typeAction": "Подписать",
               "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
-              "position": "Начальник отдела",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "г.Астана",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": 6,
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 7,
+      "addTerritoryVacationDays": 5,
+      "addForHarmfulnessVacationDays": 6,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-07T04:28:53.179Z",
+      "id": "1694060704934-FKQaVz",
+      "nameRegistration": "Журнал регистрации трудовых договоров",
+      "status": "Действующий",
+      "postId": "1694060185037-rm6j0f"
+    },
+    {
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Заместитель директора"
+      ],
+      "nameKz": "",
+      "nameRu": "Тредовой договор 21",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Избрание по конкурсу на замещение соответствующей должности",
+      "durationEmployment": "На определенный срок не менее одного года",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "trialPeriod": "3 месяца",
+      "addressOrganization": null,
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1694059983962-rsj1ro",
+          "approvals": [
+            {
+              "id": "1694059985648-DOtkSq",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "г.Астана",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": 6,
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 7,
+      "addTerritoryVacationDays": 5,
+      "addForHarmfulnessVacationDays": 6,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-07T05:11:33.123Z",
+      "id": "1694063401252-jDu6nj",
+      "nameRegistration": "Журнал регистрации трудовых договоров",
+      "status": "Действующий",
+      "postId": "1694062678367-x7UQ6n"
+    },
+    {
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Заместитель директора"
+      ],
+      "nameKz": "",
+      "nameRu": "Тредовой договор 21",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Избрание по конкурсу на замещение соответствующей должности",
+      "durationEmployment": "На определенный срок не менее одного года",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Дистанционная работа",
+      "trialPeriod": "3 месяца",
+      "addressOrganization": null,
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1694059983962-rsj1ro",
+          "approvals": [
+            {
+              "id": "1694059985648-DOtkSq",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "г.Астана",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Территория с льготным социально-экономическим статусом – 5 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": "9",
+      "environmentalDisasterZoneVacationDays": "Зона экологического предкризисного состояния – 7 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": "13",
+      "addTerritoryVacationDays": "10",
+      "addForHarmfulnessVacationDays": "9",
+      "addEmployeeDisabledVacationDays": "10",
+      "dataChange": "2023-09-07T06:33:14.620Z",
+      "id": "1694068265677-524k3J",
+      "nameRegistration": "Журнал регистрации трудовых договоров",
+      "status": "Действующий",
+      "postId": "1694067723934-4P38i1"
+    },
+    {
+      "trialPeriod": "3 месяца",
+      "positionsStructuralDivisions": [
+        "Директор",
+        "Директор ДИТ",
+        "Директор ДУЧР"
+      ],
+      "nameKz": "",
+      "nameRu": "Шаблон ТД по основной работе для вахтовиков ",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вахтовиков Шаблон ТД по основной работе для вах",
+      "descriptionEng": "",
+      "formConclusionOfContract": "Типовая форма",
+      "typeContract": "Основной договор",
+      "typeContractConcluded": "Основная работа",
+      "contractConclusionProcedure": "Назначение на должность или утверждение в должности",
+      "durationEmployment": "На определенный срок не менее одного года",
+      "workingConditionsEmployee": "Нормальные",
+      "employmentForm": "Работа по местонахождению работодателя",
+      "addressOrganization": "12 Кабанбай батыра",
+      "typesWorkingWeek": "Пятидневная рабочая неделя с двумя выходными днями",
+      "workingTimeMode": "Нормальная",
+      "employeeCategory": "Гражданский работник (от 24 календарных дней)",
+      "country": "Казахстан",
+      "approvalBlocks": [
+        {
+          "id": "1694146894832-kQ75l9",
+          "approvals": [
+            {
+              "id": "1694146896939-X4JqAs",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "region": "Западно-Казахстанская область",
+      "addNormalVacationDays": 24,
+      "isEmployeeDisabled": true,
+      "isEnvironmentalDisasterZone": true,
+      "isHarmful": true,
+      "isTerritoryVacationDays": true,
+      "territoryVacationDays": "Зона чрезвычайного радиационного риска – 14 календарных дней",
+      "numberOfDaysForEmployeeDisabled": 6,
+      "numberOfDaysForHarmfulness": 6,
+      "environmentalDisasterZoneVacationDays": "Зона экологической катастрофы – 12 календарных дней",
+      "addEnvironmentalDisasterZoneVacationDays": 12,
+      "addTerritoryVacationDays": 14,
+      "addForHarmfulnessVacationDays": 6,
+      "addEmployeeDisabledVacationDays": 6,
+      "dataChange": "2023-09-08T04:34:28.645Z",
+      "id": "1694147572438-lcj0Fn",
+      "nameOrganization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "nameStructural": "Департамент управления человеческими ресурсами",
+      "nameRegistration": "Журнал регистрации трудовых договоров",
+      "status": "Действующий",
+      "postId": "1694147253101-vzWruK"
+    }
+  ],
+  "data_employment_order": [
+    {
+      "nameKz": "Приказ Данияр",
+      "nameRu": "Приказ Данияр",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Приказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ Данияр",
+      "descriptionEng": "",
+      "baseOrder": "ТД №123 от 21.02.2023 Мукушов Арман",
+      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
+      "dateOfStart": "2023-10-15T18:00:00.000Z",
+      "salaryAmount": "100000",
+      "trialPeriod": "3 месяца",
+      "workingConditionsEmployee": "Нормальные",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "approvalBlocks": [
+        {
+          "id": "1693565839992-I8Rfov",
+          "approvals": [
+            {
+              "id": "1693565841765-oynOLT",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
               "note": "",
               "access": "Редактор текста"
             }
@@ -2167,22 +3286,683 @@
           "isParallel": "0"
         }
       ],
+      "endTrialPeriod": "2024-01-15T18:00:00.000Z",
+      "startTrialPeriod": "2023-10-15T18:00:00.000Z",
+      "dataChange": "2023-09-07T05:11:34.995Z",
+      "id": "1694002515206-Jv18Il",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
       "status": "На согласовании",
-      "postId": "1692848902791-6DZIYw"
+      "postId": "1691753214879-wlkcCM"
+    },
+    {
+      "nameKz": "Приказ Данияр",
+      "nameRu": "Приказ Данияр",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Приказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ Данияр",
+      "descriptionEng": "",
+      "baseOrder": "ТД №123 от 21.02.2023 Мукушов Арман",
+      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
+      "dateOfStart": "2023-10-15T18:00:00.000Z",
+      "salaryAmount": "100000",
+      "trialPeriod": "3 месяца",
+      "workingConditionsEmployee": "Нормальные",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "approvalBlocks": [
+        {
+          "id": "1693565839992-I8Rfov",
+          "approvals": [
+            {
+              "id": "1693565841765-oynOLT",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "endTrialPeriod": "2024-01-15T18:00:00.000Z",
+      "startTrialPeriod": "2023-10-15T18:00:00.000Z",
+      "dataChange": "2023-09-07T03:22:36.655Z",
+      "id": "1694056492490-IxKNh3",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
+      "status": "На согласовании",
+      "postId": "1694056033604-cWkXXl",
+      "isFamiliar": true
+    },
+    {
+      "nameKz": "",
+      "nameRu": "Приказ 21",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "",
+      "descriptionEng": "",
+      "baseOrder": "Тредовой договор 21",
+      "inAccordanceWithAct": "ст. 34 ТК РК",
+      "salaryAmount": "",
+      "trialPeriod": "3 месяца",
+      "workingConditionsEmployee": "Нормальные",
+      "approvalBlocks": [
+        {
+          "id": "1694060062809-rg3RnC",
+          "approvals": [
+            {
+              "id": "1694060064430-ijAhzt",
+              "typeAction": "Согласовать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор данных и текста"
+            },
+            {
+              "id": "1694060078405-e6egaD",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "dataChange": "2023-09-07T04:29:06.400Z",
+      "id": "1694060764538-4L4A40",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
+      "dateOfStart": "2023-09-07T04:14:49.563Z",
+      "startTrialPeriod": "2023-09-07T04:14:49.563Z",
+      "endTrialPeriod": "2023-12-07T04:14:49.563Z",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "status": "На согласовании",
+      "postId": "1694060185037-rm6j0f",
+      "isFamiliar": true
+    },
+    {
+      "nameKz": "Приказ Данияр",
+      "nameRu": "Приказ Данияр",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Приказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ ДаниярПриказ Данияр",
+      "descriptionEng": "",
+      "baseOrder": "ТД №123 от 21.02.2023 Мукушов Арман",
+      "inAccordanceWithAct": "п.1 ст. 21 ТК РК",
+      "dateOfStart": "2023-10-15T18:00:00.000Z",
+      "salaryAmount": "100000",
+      "trialPeriod": "3 месяца",
+      "workingConditionsEmployee": "Нормальные",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "approvalBlocks": [
+        {
+          "id": "1693565839992-I8Rfov",
+          "approvals": [
+            {
+              "id": "1693565841765-oynOLT",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "endTrialPeriod": "2024-01-15T18:00:00.000Z",
+      "startTrialPeriod": "2023-10-15T18:00:00.000Z",
+      "dataChange": "2023-09-07T05:11:36.843Z",
+      "id": "1694063410964-qyP0Ug",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
+      "status": "На согласовании",
+      "postId": "1694062678367-x7UQ6n",
+      "isFamiliar": true
+    },
+    {
+      "nameKz": "",
+      "nameRu": "Приказ 8951",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "",
+      "descriptionEng": "",
+      "baseOrder": "Тредовой договор 21",
+      "inAccordanceWithAct": "ст. 34 ТК РК",
+      "salaryAmount": "100000",
+      "trialPeriod": "4 месяца",
+      "workingConditionsEmployee": "Нормальные",
+      "approvalBlocks": [
+        {
+          "id": "1694060062809-rg3RnC",
+          "approvals": [
+            {
+              "id": "1694060064430-ijAhzt",
+              "typeAction": "Согласовать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор данных и текста"
+            },
+            {
+              "id": "1694060078405-e6egaD",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "dataChange": "2023-09-07T06:33:16.643Z",
+      "id": "1694068312147-3fgpPS",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
+      "dateOfStart": "2023-09-14T04:14:49.000Z",
+      "startTrialPeriod": "2023-09-14T04:14:49.000Z",
+      "endTrialPeriod": "2024-01-14T04:14:49.000Z",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "status": "На согласовании",
+      "postId": "1694067723934-4P38i1"
+    },
+    {
+      "trialPeriod": "3 месяца",
+      "nameKz": "",
+      "nameRu": "Шаблон приказа о приеме на работу по основному месту",
+      "nameEng": "",
+      "descriptionKz": "",
+      "descriptionRu": "Шаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному местуШаблон приказа о приеме на работу по основному месту",
+      "descriptionEng": "",
+      "inAccordanceWithAct": "ст. 34 ТК РК",
+      "salaryAmount": "500 000",
+      "workingConditionsEmployee": "Нормальные",
+      "nomenclature": [
+        "04-01-12 Приказы ректора - Председатель правления"
+      ],
+      "approvalBlocks": [
+        {
+          "id": "1694146982564-DZYatk",
+          "approvals": [
+            {
+              "id": "1694146984672-281KVF",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ],
+      "dataChange": "2023-09-08T04:34:15.493Z",
+      "id": "1694147591749-c40LVk",
+      "typeOrder": "О приеме на работу",
+      "orderStatus": "Действующий",
+      "dateOfStart": "2023-09-08T04:23:16.019Z",
+      "startTrialPeriod": "2023-09-08T04:23:16.019Z",
+      "endTrialPeriod": "2023-12-08T04:23:16.019Z",
+      "baseOrder": "Шаблон ТД по основной работе для вахтовиков ",
+      "status": "На согласовании",
+      "postId": "1694147253101-vzWruK",
+      "isFamiliar": true
     }
   ],
   "hr-tasks-done": [
     {
-      "postId": "1691753214879-wlkcCM",
-      "status": "done",
-      "description": "Оформление документов на принят на работу",
+      "linkUser": "1694056033604-cWkXXl",
+      "linkDoc": "1694056484339-zpbzvS",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - Васламов \n            Игорь Игоревич",
       "id": 1
     },
     {
-      "postId": "1692848902791-6DZIYw",
-      "status": "done",
-      "description": "Оформление документов на принят на работу",
+      "linkUser": "1694056033604-cWkXXl",
+      "linkDoc": "1694056492490-IxKNh3",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - Васламов \n            Игорь Игоревич",
       "id": 2
+    },
+    {
+      "linkUser": "1694056033604-cWkXXl",
+      "typeDoc": "Договор",
+      "linkDoc": "1694056484339-zpbzvS",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован трудовой договор - Васламов \n            Игорь Игоревич",
+      "id": 3
+    },
+    {
+      "linkUser": "1694056033604-cWkXXl",
+      "linkDoc": "1694056492490-IxKNh3",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - Васламов \n            Игорь Игоревич",
+      "id": 4
+    },
+    {
+      "linkUser": "1694060185037-rm6j0f",
+      "linkDoc": "1694060704934-FKQaVz",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - Тестов \n            Тест ",
+      "id": 5
+    },
+    {
+      "linkUser": "1694060185037-rm6j0f",
+      "linkDoc": "1694060764538-4L4A40",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - Тестов \n            Тест ",
+      "id": 6
+    },
+    {
+      "linkUser": "1694060185037-rm6j0f",
+      "typeDoc": "Договор",
+      "linkDoc": "1694060704934-FKQaVz",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован трудовой договор - Тестов \n            Тест ",
+      "id": 7
+    },
+    {
+      "linkUser": "1694060185037-rm6j0f",
+      "linkDoc": "1694060764538-4L4A40",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - Тестов \n            Тест ",
+      "id": 8
+    },
+    {
+      "linkUser": "1691753214879-wlkcCM",
+      "linkDoc": "1694002509276-nYSuu5",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - undefined \n            undefined undefined",
+      "id": 9
+    },
+    {
+      "linkUser": "1691753214879-wlkcCM",
+      "linkDoc": "1694002515206-Jv18Il",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - undefined \n            undefined undefined",
+      "id": 10
+    },
+    {
+      "linkUser": "1694062678367-x7UQ6n",
+      "linkDoc": "1694063401252-jDu6nj",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - aa \n            aa asa",
+      "id": 11
+    },
+    {
+      "linkUser": "1694062678367-x7UQ6n",
+      "linkDoc": "1694063410964-qyP0Ug",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - aa \n            aa asa",
+      "id": 12
+    },
+    {
+      "linkUser": "1694062678367-x7UQ6n",
+      "typeDoc": "Договор",
+      "linkDoc": "1694063401252-jDu6nj",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован трудовой договор - aa \n            aa asa",
+      "id": 13
+    },
+    {
+      "linkUser": "1691753214879-wlkcCM",
+      "linkDoc": "1694002515206-Jv18Il",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - undefined \n            undefined undefined",
+      "id": 14
+    },
+    {
+      "linkUser": "1694062678367-x7UQ6n",
+      "linkDoc": "1694063410964-qyP0Ug",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - aa \n            aa asa",
+      "id": 15
+    },
+    {
+      "linkUser": "1694067723934-4P38i1",
+      "linkDoc": "1694068265677-524k3J",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - Иванов \n            Андрей ",
+      "id": 16
+    },
+    {
+      "linkUser": "1694067723934-4P38i1",
+      "linkDoc": "1694068312147-3fgpPS",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - Иванов \n            Андрей ",
+      "id": 17
+    },
+    {
+      "linkUser": "1694067723934-4P38i1",
+      "typeDoc": "Договор",
+      "linkDoc": "1694068265677-524k3J",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован трудовой договор - Иванов \n            Андрей ",
+      "id": 18
+    },
+    {
+      "linkUser": "1694067723934-4P38i1",
+      "linkDoc": "1694068312147-3fgpPS",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - Иванов \n            Андрей ",
+      "id": 19
+    },
+    {
+      "linkUser": "1694147253101-vzWruK",
+      "linkDoc": "1694147572438-lcj0Fn",
+      "status": "Подписан",
+      "typeDoc": "Договор",
+      "description": "Подписано трудовой договор - Mussin \n            Alibek ",
+      "id": 20
+    },
+    {
+      "linkUser": "1694147253101-vzWruK",
+      "linkDoc": "1694147591749-c40LVk",
+      "typeDoc": "Приказ",
+      "status": "Подписан",
+      "description": "Подписано приказ о приеме на работу - Mussin \n            Alibek ",
+      "id": 21
+    },
+    {
+      "linkUser": "1694147253101-vzWruK",
+      "linkDoc": "1694147591749-c40LVk",
+      "typeDoc": "Приказ",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован приказ о приеме на работу - Mussin \n            Alibek ",
+      "id": 22
+    },
+    {
+      "linkUser": "1694147253101-vzWruK",
+      "typeDoc": "Договор",
+      "linkDoc": "1694147572438-lcj0Fn",
+      "status": "Зарегистрирован",
+      "description": "Зарегистрирован трудовой договор - Mussin \n            Alibek ",
+      "id": 23
+    }
+  ],
+  "contact_information": [
+    {
+      "id": "1694056150717-ExZ1UV",
+      "status": "CANDIDATE",
+      "postId": "1694056033604-cWkXXl",
+      "type": "Адрес прописке",
+      "view": "Личный",
+      "represent": "55446fnb vvcxgfx"
+    },
+    {
+      "id": "1694060254862-jkPZCo",
+      "status": "CANDIDATE",
+      "postId": "1694060185037-rm6j0f",
+      "type": "Адрес проживания",
+      "view": "Рабочий",
+      "represent": "55446fnb vvcxgfx"
+    },
+    {
+      "id": "1694067866341-UCrwgc",
+      "status": "CANDIDATE",
+      "postId": "1694067723934-4P38i1",
+      "type": "Адрес проживания",
+      "view": "Личный",
+      "represent": "dsfsdf"
+    }
+  ],
+  "labor_activity": [
+    {
+      "id": "1694056158877-tCo2hB",
+      "status": "CANDIDATE",
+      "postId": "1694056033604-cWkXXl",
+      "startDate": "2023-09-11T18:00:00.000Z",
+      "nameOfCompany": "",
+      "structuralUnitAndPosition": "",
+      "reasonForLeaving": "",
+      "nameOfTheDismissalArticle": "",
+      "typeOfExperience": ""
+    },
+    {
+      "id": "1694060285581-MvbyCP",
+      "status": "CANDIDATE",
+      "postId": "1694060185037-rm6j0f",
+      "startDate": "2023-09-13T18:00:00.000Z",
+      "expirationDate": "2023-09-05T18:00:00.000Z",
+      "nameOfCompany": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "structuralUnitAndPosition": "ДИТ",
+      "reasonForLeaving": "Собственное желание",
+      "nameOfTheDismissalArticle": "Собственное желание",
+      "typeOfExperience": "Общий стаж"
+    },
+    {
+      "id": "1694067896093-QXplae",
+      "status": "CANDIDATE",
+      "postId": "1694067723934-4P38i1",
+      "startDate": "2023-09-04T18:00:00.000Z",
+      "expirationDate": "2023-09-10T18:00:00.000Z",
+      "nameOfCompany": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+      "structuralUnitAndPosition": "ДИТ",
+      "reasonForLeaving": "Собственное желание",
+      "nameOfTheDismissalArticle": "Собственное желание",
+      "typeOfExperience": "Общий стаж"
+    }
+  ],
+  "register_candidate": [
+    {
+      "id": "1694145277377-iPbDBj",
+      "email": "test10@gmail.com",
+      "isEdit": false,
+      "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE2OTQxNDUyNzczNzctaVBiREJqIiwiZW1haWwiOiJ0ZXN0MTBAZ21haWwuY29tIiwibGFzdG5hbWUiOiLQotC+0LzQsNC10LIiLCJmaXJzdG5hbWUiOiLQmNCz0L7RgNGMIiwicGFzc3dvcmQiOiJGVXNlSFdFITpYVWtZMkEiLCJpc1JlYWQiOnRydWUsInR5cGUiOiJDQU5ESURBVEUifQ==.ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpFMk9UUXhORFV5Tnpjek56Y3RhVkJpUkVKcUlpd2laVzFoYVd3aU9pSjBaWE4wTVRCQVoyMWhhV3d1WTI5dElpd2liR0Z6ZEc1aGJXVWlPaUxRb3RDKzBMelFzTkMxMExJaUxDSm1hWEp6ZEc1aGJXVWlPaUxRbU5DejBMN1JnTkdNSWl3aWNHRnpjM2R2Y21RaU9pSkdWWE5sU0ZkRklUcFlWV3RaTWtFaUxDSnBjMUpsWVdRaU9uUnlkV1VzSW5SNWNHVWlPaUpEUVU1RVNVUkJWRVVpZlE9PS4xNjk0MTQ1Mjc3Mzc3LVFjRUl3Qw=="
+    },
+    {
+      "id": "1694147253101-vzWruK",
+      "email": "a.mukushov@gmail.com",
+      "isEdit": true,
+      "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE2OTQxNDcyNTMxMDEtdnpXcnVLIiwiZW1haWwiOiJhLm11a3VzaG92QGdtYWlsLmNvbSIsImxhc3RuYW1lIjoiTXVrdXNob3YiLCJmaXJzdG5hbWUiOiJBcm1hbiIsInBhc3N3b3JkIjoiRCFTOV9BYUxMQ0Y3aHRrIiwiaXNSZWFkIjp0cnVlLCJ0eXBlIjoiQ0FORElEQVRFIn0=.ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpFMk9UUXhORGN5TlRNeE1ERXRkbnBYY25WTElpd2laVzFoYVd3aU9pSmhMbTExYTNWemFHOTJRR2R0WVdsc0xtTnZiU0lzSW14aGMzUnVZVzFsSWpvaVRYVnJkWE5vYjNZaUxDSm1hWEp6ZEc1aGJXVWlPaUpCY20xaGJpSXNJbkJoYzNOM2IzSmtJam9pUkNGVE9WOUJZVXhNUTBZM2FIUnJJaXdpYVhOU1pXRmtJanAwY25WbExDSjBlWEJsSWpvaVEwRk9SRWxFUVZSRkluMD0uMTY5NDE0NzI1MzEwMi1BSUs5VEU="
+    }
+  ],
+  "certification_information": [],
+  "skills": [],
+  "application_template": [
+    {
+      "id": "1694056184425-xuYjFC",
+      "status": "CANDIDATE",
+      "createDate": "2023-09-07T03:11:08.222Z",
+      "author": "Сариев К.С",
+      "active": true,
+      "applicationName": "Заявление о приеме на работу",
+      "applicationType": "О приеме на работу",
+      "positions": "ТОО СОМНИУМ",
+      "chooseAnOrganization": "Председатель правления",
+      "approvalBlocks": [
+        {
+          "id": "1694056202239-t4B7AB",
+          "approvals": [
+            {
+              "id": "1694056205160-sC8Oae",
+              "typeAction": "Согласовать",
+              "date": "2023-09-11T18:00:00.000Z",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор данных",
+              "eds": true
+            },
+            {
+              "id": "1694056245890-9U3T8Q",
+              "typeAction": "Подписать",
+              "date": "2023-09-10T18:00:00.000Z",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ]
+    },
+    {
+      "id": "1694060099950-nBkLsu",
+      "status": "CANDIDATE",
+      "createDate": "2023-09-07T04:15:45.313Z",
+      "author": "Сариев К.С",
+      "active": true,
+      "applicationName": "Заявление о приеме на работу",
+      "applicationType": "О приеме на работу",
+      "positions": "ТОО СОМНИУМ",
+      "chooseAnOrganization": "Председатель правления",
+      "approvalBlocks": [
+        {
+          "id": "1694060117638-866lNz",
+          "approvals": [
+            {
+              "id": "1694060119244-w0rs16",
+              "typeAction": "Согласовать",
+              "organization": "",
+              "position": "Менеджер",
+              "note": "",
+              "access": "Редактор данных и текста"
+            },
+            {
+              "id": "1694060134690-k4h7ZY",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста"
+            }
+          ],
+          "isParallel": "0"
+        }
+      ]
+    },
+    {
+      "id": "1694147016506-accsig",
+      "status": "CANDIDATE",
+      "createDate": "2023-09-08T04:24:01.885Z",
+      "author": "Сариев К.С",
+      "active": true,
+      "applicationName": "Заявление о приеме на работу по основному месту",
+      "applicationType": "О приеме на работу",
+      "positions": "ТОО СОМНИУМ",
+      "chooseAnOrganization": "Председатель правления",
+      "approvalBlocks": [
+        {
+          "id": "1694147039040-jTTKyg",
+          "approvals": [
+            {
+              "id": "1694147044155-nEWWH5",
+              "typeAction": "Подписать",
+              "organization": "ТОО \"SOMNIUM\" (СОМНИУМ)",
+              "position": "Директор",
+              "note": "",
+              "access": "Редактор данных и текста",
+              "eds": true
+            }
+          ],
+          "isParallel": "0"
+        }
+      ]
+    }
+  ],
+  "statement_candidate": [
+    {
+      "id": "1694056287122-K8aoi2",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "ТОО 'SOMNIUM' (СОМНИУМ)",
+      "positions": "Заведущий кафедрой",
+      "releaseDate": "2023-09-11T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694056033604-cWkXXl"
+    },
+    {
+      "id": "1694060300680-08cU9J",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "ТОО 'SOMNIUM' (СОМНИУМ)",
+      "positions": "Заведущий кафедрой",
+      "releaseDate": "2023-09-12T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694060185037-rm6j0f"
+    },
+    {
+      "id": "1694062709159-rvAowP",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "НАО 'КазНУ Аль-Фараби'",
+      "positions": "Менеджера по продажам",
+      "releaseDate": "2023-09-04T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694062678367-x7UQ6n"
+    },
+    {
+      "id": "1694067905826-3sR86J",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "ТОО 'SOMNIUM' (СОМНИУМ)",
+      "positions": "Менеджера по продажам",
+      "releaseDate": "2023-09-12T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694067723934-4P38i1"
+    },
+    {
+      "id": "1694145084959-vgaRr3",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "ТОО 'SOMNIUM' (СОМНИУМ)",
+      "positions": "Менеджера по продажам",
+      "releaseDate": "2023-09-04T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694144892762-m5ldaX"
+    },
+    {
+      "id": "1694147328703-ZNE7MQ",
+      "taskStatus": "Подписано",
+      "nameOfCompany": "ТОО 'SOMNIUM' (СОМНИУМ)",
+      "positions": "Менеджера по продажам",
+      "releaseDate": "2023-09-07T18:00:00.000Z",
+      "status": "CANDIDATE",
+      "active": true,
+      "postId": "1694147253101-vzWruK"
+    }
+  ],
+  "identity_documents": [
+    {
+      "validity": "2023-09-07T18:00:00.000Z",
+      "dateOfIssue": "2023-09-06T18:00:00.000Z",
+      "issuedBy": "214",
+      "documentNumber": "wq4124",
+      "type": "Паспорт",
+      "id": "1694060469378-6KPe77",
+      "status": "CANDIDATE",
+      "postId": "1694060185037-rm6j0f"
     }
   ]
 }
